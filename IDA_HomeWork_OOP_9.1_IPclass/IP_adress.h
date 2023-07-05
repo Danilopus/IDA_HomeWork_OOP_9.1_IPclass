@@ -5,6 +5,8 @@
 #include "Net_mask.h"
 #include "Service functions.h"
 
+//class Net_mask;
+
 class  IP_adress
 	{		
 	Struct_IP _Struct_IP_adress;

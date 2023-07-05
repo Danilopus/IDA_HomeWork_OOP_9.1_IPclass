@@ -1,6 +1,10 @@
 ﻿#pragma once
 #include <string>
 #include "IP_adress.h"
+#include "Net_mask.h"
+
+//class Net_mask;
+//class IP_adress;
 
 
 

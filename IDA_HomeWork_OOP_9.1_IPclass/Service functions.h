@@ -1,4 +1,4 @@
-﻿//#pragma once
+﻿#pragma once
 #ifndef _Service_functions_h_
 #define _Service_functions_h_
 #include <iostream>

@@ -1,8 +1,9 @@
 #pragma once
-//#include "Struct_IP.h"
+#include "Struct_IP.h"
 #include "IP_adress.h"
 #include "Service functions.h"
 
+//class IP_adress;
 
 class Net_mask
 {
