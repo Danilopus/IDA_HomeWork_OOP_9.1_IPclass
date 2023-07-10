@@ -1,4 +1,7 @@
 #pragma once
+#ifndef _Struct_IP_H_
+#define _Struct_IP_H_
+
 #include <iostream>
 
 class Struct_IP
@@ -31,3 +34,6 @@ public:
 	}
 
 };
+
+
+#endif

@@ -1,4 +1,7 @@
 #pragma once
+#ifndef _Net_mask_H_
+#define _Net_mask_H_
+
 #include "Struct_IP.h"
 #include "IP_adress.h"
 #include "Service functions.h"
@@ -101,3 +104,5 @@ public:
 	}
 
 };
+
+#endif _Net_mask_H_

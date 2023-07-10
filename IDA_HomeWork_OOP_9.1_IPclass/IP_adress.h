@@ -1,4 +1,7 @@
 ﻿#pragma once
+#ifndef _IP_adress_H_
+#define _IP_adress_H_
+
 #include <vector>
 #include <iostream>
 #include "Struct_IP.h"
@@ -130,3 +133,6 @@ class  IP_adress
 			return out;
 		}
 };
+
+
+#endif //	_IP_adress_H_

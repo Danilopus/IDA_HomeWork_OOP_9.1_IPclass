@@ -1,4 +1,6 @@
 ﻿#pragma once
+#ifndef _IP_adress_UnitTest_H_
+#define _IP_adress_UnitTest_H_
 #include <string>
 #include "IP_adress.h"
 #include "Net_mask.h"
@@ -176,3 +178,6 @@ public:
 	*/
 
 };
+
+
+#endif //_IP_adress_UnitTest_H_
